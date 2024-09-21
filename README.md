@@ -18,6 +18,7 @@ The dataset includes various factors affecting student performance in exams, suc
 - **Attendance:** Percentage of classes attended.
 - **Parental Involvement:** Level of parental engagement and education.
 - **Socioeconomic Factors:** Parental education level, access to resources.
+  
 Other Factors: Sleep hours, teacher quality, motivation levels.
 
 
